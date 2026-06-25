@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm OP Devil 🔥
 
-<!--
-**opdevil-hacks/opdevil-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Bio
+Cybersecurity Aspirant | Ethical Hacking Enthusiast  
+Google Cybersecurity Certificate | Active on TryHackMe & HackTheBox  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Description
+I'm a Cybersecurity enthusiast passionate about Ethical Hacking and Network Security.  
+Currently pursuing Security+ certification and exploring advanced tools like Nmap, Wireshark, Metasploit, and Burp Suite.  
+Active learner on TryHackMe (45+ rooms) & HackTheBox (3+ rooms), building skills step by step to become a professional ethical hacker.
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [TryHackMe](https://tryhackme.com/p/OPDEVIL)
+- [HackTheBox](https://app.hackthebox.com/profile/yourprofile)
+- [Coursera](https://www.coursera.org/user/yourprofile)
+
+---
+
+## 🛠️ Tools & Skills
+- **Burp Suite** → Web application security testing  
+- **Nmap** → Network scanning & enumeration  
+- **Wireshark** → Packet analysis & traffic monitoring  
+- **Metasploit** → Exploitation framework  
+- **Kali Linux** → Penetration testing environment  
+- **SIEM Tools** → Splunk, QRadar  
+
+---
+
+## ⚙️ Configuration & Setup
+- **Operating System** → Kali Linux, Windows 11  
+- **Virtualization** → VirtualBox, VMware  
+- **Web Security Tools** → Burp Suite, OWASP ZAP  
+- **Network Tools** → Nmap, Wireshark  
+- **Exploitation Frameworks** → Metasploit, msfconsole  
+- **SIEM Practice** → Splunk, QRadar, Elastic Stack  
+- **Learning Platforms** → TryHackMe, HackTheBox
