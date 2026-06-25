@@ -9,7 +9,8 @@ Google Cybersecurity Certificate | Active on TryHackMe & HackTheBox
 ## 📝 Description
 I'm a Cybersecurity enthusiast passionate about Ethical Hacking and Network Security.  
 Currently pursuing Security+ certification and exploring advanced tools like Nmap, Wireshark, Metasploit, and Burp Suite.  
-Active learner on TryHackMe (45+ rooms) & HackTheBox (3+ rooms), building skills step by step to become a professional ethical hacker.
+Active learner on TryHackMe & HackTheBox, consistently completing rooms and building skills step by step to become a professional ethical hacker.
+
 
 ---
 
