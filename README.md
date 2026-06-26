@@ -15,8 +15,7 @@ Active learner on TryHackMe & HackTheBox, consistently completing rooms and buil
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/KONDAGENI ERESH
-)
+- [LinkedIn](https://www.linkedin.com/in/kondageni-eresh-67b98b419/)
 - [TryHackMe](https://tryhackme.com/p/OPDEVIL)
 - [HackTheBox](https://app.hackthebox.com/profile/yourprofile)
 - [Coursera](https://www.coursera.org/user/yourprofile)
